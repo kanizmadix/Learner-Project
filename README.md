@@ -17,7 +17,7 @@ This educational project combines fundamental data science concepts with practic
 
 ## Required Libraries
 ```bash
-pip install scikit-learn pandas numpy requests beautifulsoup4 openpyxl
+pip install scikit-learn pandas numpy matplotlib requests beautifulsoup4 openpyxl
 ```
 
 ## Project Structure
